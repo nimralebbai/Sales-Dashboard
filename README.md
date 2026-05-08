@@ -11,3 +11,15 @@ Dataset
 
  ## Dashboard
  <img width="888" height="344" alt="Sales Dashboard image" src="https://github.com/user-attachments/assets/6c85cf17-e932-49c3-ac5e-e31ba74331d8" />
+## Dashboard Creation Process
+
+* Collected and organized sales dataset in Excel
+* Cleaned and formatted the data for analysis
+* Converted raw data into Excel tables
+* Created Pivot Tables for sales analysis
+* Analyzed product-wise, city-wise, category-wise, and date-wise sales
+* Used SUMIF and COUNTIF formulas for calculations
+* Built Pivot Charts for visualization
+* Added Slicers for interactive filtering
+* Designed KPI cards for key metrics
+* Developed a clean and interactive Sales Dashboard for reporting and insights
