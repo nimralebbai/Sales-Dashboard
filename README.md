@@ -6,3 +6,5 @@ The objective of this project is to analyze sales data using Microsoft Excel and
 Dataset
 
 Dataset Link:
+<a href= "https://onedrive.live.com/personal/b0085c1702fb7815"> sale data<a>
+<a href= "https://github.com/nimralebbai/Sales-Dashboard/blob/main/Sales%20Dashboard.xlsx"> sales dashboard<a>
